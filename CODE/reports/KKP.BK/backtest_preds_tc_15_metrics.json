@@ -1,0 +1,10 @@
+{
+  "symbol": "KKP.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.16460523247684886,
+  "MaxDD": -1.0,
+  "WinRate": 0.10864197530864197,
+  "FinalEquity": -0.0
+}

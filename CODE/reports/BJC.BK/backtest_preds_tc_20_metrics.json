@@ -1,0 +1,10 @@
+{
+  "symbol": "BJC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.5448472327023631,
+  "MaxDD": -1.003980031984,
+  "WinRate": 0.04567901234567901,
+  "FinalEquity": 0.0
+}

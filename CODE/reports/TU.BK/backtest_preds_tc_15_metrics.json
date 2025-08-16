@@ -1,0 +1,10 @@
+{
+  "symbol": "TU.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.6814655366420421,
+  "MaxDD": -1.00149775,
+  "WinRate": 0.2679012345679012,
+  "FinalEquity": 0.0
+}

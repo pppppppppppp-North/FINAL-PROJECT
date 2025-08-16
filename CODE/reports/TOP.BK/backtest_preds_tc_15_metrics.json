@@ -1,0 +1,10 @@
+{
+  "symbol": "TOP.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.6327046184148117,
+  "MaxDD": -1.0015,
+  "WinRate": 0.24444444444444444,
+  "FinalEquity": -0.0
+}

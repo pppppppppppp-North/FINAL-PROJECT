@@ -1,0 +1,10 @@
+{
+  "symbol": "ADVANC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 2.3717318250460737,
+  "MaxDD": -1.0,
+  "WinRate": 0.1925925925925926,
+  "FinalEquity": 0.0
+}

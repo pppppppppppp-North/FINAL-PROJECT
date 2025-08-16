@@ -1,0 +1,10 @@
+{
+  "symbol": "BBL.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.33143908633434077,
+  "MaxDD": -1.0,
+  "WinRate": 0.21481481481481482,
+  "FinalEquity": -0.0
+}

@@ -1,0 +1,10 @@
+{
+  "symbol": "BCP.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.3262046742948663,
+  "MaxDD": -1.002991,
+  "WinRate": 0.0962962962962963,
+  "FinalEquity": 0.0
+}

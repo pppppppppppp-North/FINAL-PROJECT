@@ -1,0 +1,10 @@
+{
+  "symbol": "SCC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.7999541401447336,
+  "MaxDD": -1.0,
+  "WinRate": 0.2506172839506173,
+  "FinalEquity": 0.0
+}

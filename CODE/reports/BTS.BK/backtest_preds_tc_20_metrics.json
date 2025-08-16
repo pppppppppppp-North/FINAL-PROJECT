@@ -1,0 +1,10 @@
+{
+  "symbol": "BTS.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.6698851566636363,
+  "MaxDD": -1.0,
+  "WinRate": 0.07901234567901234,
+  "FinalEquity": 0.0
+}

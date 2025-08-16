@@ -1,0 +1,10 @@
+{
+  "symbol": "BANPU.BK",
+  "task": "classification",
+  "thr": 0.0,
+  "CAGR": -1.0,
+  "Sharpe": -1.6471528875535981,
+  "MaxDD": NaN,
+  "WinRate": 0.19012345679012346,
+  "FinalEquity": 0.0
+}

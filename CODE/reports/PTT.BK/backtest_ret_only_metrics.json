@@ -1,0 +1,10 @@
+{
+  "symbol": "PTT.BK",
+  "task": "classification",
+  "thr": 0.0,
+  "CAGR": -1.0,
+  "Sharpe": -1.4732194250617872,
+  "MaxDD": -1.0039999999999996,
+  "WinRate": 0.3592592592592593,
+  "FinalEquity": 0.0
+}

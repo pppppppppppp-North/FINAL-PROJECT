@@ -1,0 +1,10 @@
+{
+  "symbol": "KTB.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.868748417615488,
+  "MaxDD": -1.1911374030282502,
+  "WinRate": 0.22962962962962963,
+  "FinalEquity": 0.0
+}

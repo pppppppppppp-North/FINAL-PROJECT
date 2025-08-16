@@ -1,0 +1,10 @@
+{
+  "symbol": "BDMS.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.3215376449967819,
+  "MaxDD": -1.002991,
+  "WinRate": 0.04691358024691358,
+  "FinalEquity": -0.0
+}

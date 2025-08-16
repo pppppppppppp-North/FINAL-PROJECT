@@ -1,0 +1,10 @@
+{
+  "symbol": "HMPRO.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.4585762061725194,
+  "MaxDD": -1.005,
+  "WinRate": 0.2271604938271605,
+  "FinalEquity": -0.0
+}

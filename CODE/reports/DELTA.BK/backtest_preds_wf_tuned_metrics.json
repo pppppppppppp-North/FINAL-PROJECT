@@ -1,0 +1,10 @@
+{
+  "symbol": "DELTA.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 2.119888725559888,
+  "MaxDD": NaN,
+  "WinRate": 0.1111111111111111,
+  "FinalEquity": 0.0
+}

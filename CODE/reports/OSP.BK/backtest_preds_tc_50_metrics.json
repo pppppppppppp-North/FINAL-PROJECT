@@ -1,0 +1,10 @@
+{
+  "symbol": "OSP.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.4580646500776477,
+  "MaxDD": -1.005,
+  "WinRate": 0.4160493827160494,
+  "FinalEquity": -0.0
+}

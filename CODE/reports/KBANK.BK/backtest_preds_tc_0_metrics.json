@@ -1,0 +1,10 @@
+{
+  "symbol": "KBANK.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.7995343268063075,
+  "MaxDD": -1.0,
+  "WinRate": 0.20123456790123456,
+  "FinalEquity": 0.0
+}

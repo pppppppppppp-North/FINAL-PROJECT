@@ -1,0 +1,10 @@
+{
+  "symbol": "BEM.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.472699493639683,
+  "MaxDD": -1.0199999999999996,
+  "WinRate": 0.05308641975308642,
+  "FinalEquity": 0.0
+}

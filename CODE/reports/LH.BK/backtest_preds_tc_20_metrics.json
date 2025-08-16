@@ -1,0 +1,10 @@
+{
+  "symbol": "LH.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.05889792182927531,
+  "MaxDD": -1.0,
+  "WinRate": 0.24074074074074073,
+  "FinalEquity": 0.0
+}

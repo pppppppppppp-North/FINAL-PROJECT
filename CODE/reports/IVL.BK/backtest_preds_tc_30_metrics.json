@@ -1,0 +1,10 @@
+{
+  "symbol": "IVL.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.450007337452006,
+  "MaxDD": -1.0,
+  "WinRate": 0.11234567901234568,
+  "FinalEquity": -0.0
+}

@@ -1,0 +1,10 @@
+{
+  "symbol": "OR.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": 4.613454559707578,
+  "Sharpe": 1.5844911984589576,
+  "MaxDD": 0.0,
+  "WinRate": 0.009876543209876543,
+  "FinalEquity": 256.0
+}

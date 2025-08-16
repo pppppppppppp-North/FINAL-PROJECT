@@ -1,0 +1,10 @@
+{
+  "symbol": "WHA.BK",
+  "task": "classification",
+  "thr": 0.0,
+  "CAGR": -1.0,
+  "Sharpe": 1.8235603080914333,
+  "MaxDD": -1.0,
+  "WinRate": 0.1765432098765432,
+  "FinalEquity": 0.0
+}

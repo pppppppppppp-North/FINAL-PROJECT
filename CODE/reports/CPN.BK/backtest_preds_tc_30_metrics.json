@@ -1,0 +1,10 @@
+{
+  "symbol": "CPN.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.5606309632741739,
+  "MaxDD": -1.003,
+  "WinRate": 0.13209876543209875,
+  "FinalEquity": -0.0
+}

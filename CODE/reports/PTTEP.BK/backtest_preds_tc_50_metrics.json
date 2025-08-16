@@ -1,0 +1,10 @@
+{
+  "symbol": "PTTEP.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.6191197376477473,
+  "MaxDD": -1.004975,
+  "WinRate": 0.11728395061728394,
+  "FinalEquity": 0.0
+}

@@ -1,0 +1,9 @@
+{
+  "symbol": "CPALL.BK",
+  "task": "classification",
+  "accuracy": 0.5530864197530864,
+  "precision": 0.5,
+  "recall": 0.1298342541436464,
+  "f1": 0.20614035087719298,
+  "auc": 0.512461769928966
+}

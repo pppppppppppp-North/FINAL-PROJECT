@@ -1,0 +1,10 @@
+{
+  "symbol": "TRUE.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.641519228488374,
+  "MaxDD": -1.0,
+  "WinRate": 0.12098765432098765,
+  "FinalEquity": -0.0
+}

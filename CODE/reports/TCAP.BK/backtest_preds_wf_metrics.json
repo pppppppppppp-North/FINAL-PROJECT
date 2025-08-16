@@ -1,0 +1,9 @@
+{
+  "symbol": "TCAP.BK",
+  "task": "classification",
+  "CAGR": -1.0,
+  "Sharpe": 0.991513465006353,
+  "MaxDD": -1.001,
+  "WinRate": 0.05308641975308642,
+  "FinalEquity": -0.0
+}

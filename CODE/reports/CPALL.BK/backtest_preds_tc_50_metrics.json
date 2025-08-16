@@ -1,0 +1,10 @@
+{
+  "symbol": "CPALL.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.012939609868101313,
+  "MaxDD": -1.004975,
+  "WinRate": 0.05802469135802469,
+  "FinalEquity": -0.0
+}

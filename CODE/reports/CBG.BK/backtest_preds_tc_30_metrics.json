@@ -1,0 +1,10 @@
+{
+  "symbol": "CBG.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.4058219473285294,
+  "MaxDD": -1.002991,
+  "WinRate": 0.2419753086419753,
+  "FinalEquity": -0.0
+}

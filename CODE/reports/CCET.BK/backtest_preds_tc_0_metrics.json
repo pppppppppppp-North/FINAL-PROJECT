@@ -1,0 +1,10 @@
+{
+  "symbol": "CCET.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.3548620634745009,
+  "MaxDD": -1.0,
+  "WinRate": 0.10246913580246914,
+  "FinalEquity": 0.0
+}

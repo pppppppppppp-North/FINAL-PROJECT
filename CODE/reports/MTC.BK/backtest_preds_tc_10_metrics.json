@@ -1,0 +1,10 @@
+{
+  "symbol": "MTC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.006140911980096,
+  "MaxDD": NaN,
+  "WinRate": 0.3111111111111111,
+  "FinalEquity": 0.0
+}

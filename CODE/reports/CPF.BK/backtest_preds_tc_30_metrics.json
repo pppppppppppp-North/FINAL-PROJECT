@@ -1,0 +1,10 @@
+{
+  "symbol": "CPF.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 1.1527993741876217,
+  "MaxDD": -1.0238921079999992,
+  "WinRate": 0.09012345679012346,
+  "FinalEquity": -0.0
+}

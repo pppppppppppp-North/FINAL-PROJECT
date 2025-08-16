@@ -1,0 +1,10 @@
+{
+  "symbol": "VGI.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": 0.37107723910038715,
+  "MaxDD": -1.001,
+  "WinRate": 0.14320987654320988,
+  "FinalEquity": 0.0
+}

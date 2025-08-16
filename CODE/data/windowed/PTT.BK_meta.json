@@ -1,0 +1,36 @@
+{
+  "ticker": "PTT.BK",
+  "features_used": [
+    "Close",
+    "Volume",
+    "SMA_10",
+    "SMA_20",
+    "EMA_12",
+    "EMA_26",
+    "RSI_14",
+    "MACD",
+    "MACD_signal",
+    "MACD_hist",
+    "BB_width",
+    "STOCH_k",
+    "STOCH_d",
+    "ret_1d",
+    "ret_5d"
+  ],
+  "window": 60,
+  "horizon": 5,
+  "task": "cls",
+  "split_date": "2022-01-01",
+  "train_rows": 1894,
+  "test_rows": 869,
+  "X_train_shape": [
+    1835,
+    60,
+    15
+  ],
+  "X_test_shape": [
+    810,
+    60,
+    15
+  ]
+}

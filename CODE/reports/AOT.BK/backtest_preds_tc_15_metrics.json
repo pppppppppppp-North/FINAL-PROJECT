@@ -1,0 +1,10 @@
+{
+  "symbol": "AOT.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -1.8011185394483966,
+  "MaxDD": -1.0015,
+  "WinRate": 0.05555555555555555,
+  "FinalEquity": 0.0
+}

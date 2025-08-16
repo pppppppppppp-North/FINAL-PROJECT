@@ -1,0 +1,10 @@
+{
+  "symbol": "GPSC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.9126543658170057,
+  "MaxDD": -1.005,
+  "WinRate": 0.25308641975308643,
+  "FinalEquity": 0.0
+}

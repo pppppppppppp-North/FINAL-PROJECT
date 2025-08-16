@@ -1,0 +1,10 @@
+{
+  "symbol": "TTB.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": NaN,
+  "Sharpe": 0.3209853434913717,
+  "MaxDD": -1.001997001624625,
+  "WinRate": 0.0024691358024691358,
+  "FinalEquity": -0.001996003123812499
+}

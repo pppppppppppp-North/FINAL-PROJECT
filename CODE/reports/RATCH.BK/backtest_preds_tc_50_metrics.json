@@ -1,0 +1,10 @@
+{
+  "symbol": "RATCH.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.6012088259682218,
+  "MaxDD": -1.004975,
+  "WinRate": 0.011111111111111112,
+  "FinalEquity": -0.0
+}

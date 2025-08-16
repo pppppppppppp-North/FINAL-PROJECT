@@ -1,0 +1,10 @@
+{
+  "symbol": "PTTGC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.934502945222395,
+  "MaxDD": -1.002,
+  "WinRate": 0.38271604938271603,
+  "FinalEquity": 0.0
+}

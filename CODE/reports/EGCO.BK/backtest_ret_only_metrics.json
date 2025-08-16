@@ -1,0 +1,10 @@
+{
+  "symbol": "EGCO.BK",
+  "task": "classification",
+  "thr": 0.0,
+  "CAGR": -1.0,
+  "Sharpe": -2.147598453087745,
+  "MaxDD": -1.001,
+  "WinRate": 0.1925925925925926,
+  "FinalEquity": -0.0
+}

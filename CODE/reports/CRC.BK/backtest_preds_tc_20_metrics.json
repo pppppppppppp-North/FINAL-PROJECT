@@ -1,0 +1,10 @@
+{
+  "symbol": "CRC.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.08087542919049723,
+  "MaxDD": -1.002,
+  "WinRate": 0.12345679012345678,
+  "FinalEquity": -0.0
+}

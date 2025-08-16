@@ -1,0 +1,10 @@
+{
+  "symbol": "MINT.BK",
+  "task": "classification",
+  "thr": 0.5,
+  "CAGR": -1.0,
+  "Sharpe": -0.27461419910378276,
+  "MaxDD": -1.001996,
+  "WinRate": 0.20864197530864198,
+  "FinalEquity": 0.0
+}

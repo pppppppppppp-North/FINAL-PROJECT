@@ -1,0 +1,9 @@
+{
+  "symbol": "TISCO.BK",
+  "task": "classification",
+  "accuracy": 0.5469135802469136,
+  "precision": 0.5437665782493368,
+  "recall": 0.5125,
+  "f1": 0.5276705276705277,
+  "auc": 0.5464939024390244
+}
