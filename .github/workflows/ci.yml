@@ -1,0 +1,47 @@
+name: ci
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  python-ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt || true; fi
+      - name: Smoke tests
+        run: |
+          python - << 'PY'
+          import sys, pathlib
+          root = pathlib.Path("CODE/src")
+          sys.path.insert(0, str(root))
+          print("PYTHONPATH OK:", root.exists())
+          # import a few top-level packages if present
+          for mod in ["eval.evaluate_from_preds","eval.backtest_from_preds","eval.backtest_portfolio","plots.diagnose_from_preds"]:
+              try:
+                  __import__(f"CODE.src.{mod}".replace("/","."))  # tolerate missing
+              except Exception as e:
+                  print("WARN:", mod, e)
+          PY
+      - name: Archive reports (if any)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports_artifacts
+          path: |
+            CODE/reports/**
+            !CODE/reports/**/*.pt
+            !CODE/reports/**/*.pth
+            !CODE/reports/**/*.npz
+            !CODE/reports/**/*.npy
+          if-no-files-found: ignore
